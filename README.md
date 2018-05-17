@@ -4,7 +4,9 @@ This is a simple Chatbot Artificial Intelligence Based AIML(Artificial Intellige
 
 ### Spec Requirments
   Python >= 3.6
+  
   Flask >= 0.10
+  
   aiml >= 0.9.1
   
 ## How to Use
