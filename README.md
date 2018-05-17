@@ -41,7 +41,7 @@ This is a simple Chatbot Artificial Intelligence Based AIML(Artificial Intellige
   ```
   ### 動作確認が可能な完成したアプリケーション(Video's demo)
   
-    [![Demo's video](https://github.com/nunxdz/n-chatto-botto/blob/master/output.gif)](https://youtu.be/FvSXSP-5W7s)
+  [![Demo's video](https://github.com/nunxdz/n-chatto-botto/blob/master/output.gif)](https://youtu.be/FvSXSP-5W7s)
 
   
   ### ターゲットとしてプラットフォーム、および利用したプログラミング言語を選定した理由
@@ -71,11 +71,11 @@ This is a simple Chatbot Artificial Intelligence Based AIML(Artificial Intellige
       5.Let's try to chatting with CHATTOBOTTO
       
         5.1 Input message in the textbox and press enter (or click SEND button)
-          ![chattobotto](https://github.com/nunxdz/n-chatto-botto/blob/master/step1.PNG)
+   ![chattobotto](https://github.com/nunxdz/n-chatto-botto/blob/master/step1.PNG)
           
         5.2 After that, just talk to the chat robot. In user section is preceded by "You :". 
         also in the robot's message will have the "Robot : " are attached that showed in below figure.
-          ![chattobotto](https://github.com/nunxdz/n-chatto-botto/blob/master/step2.PNG)
+   ![chattobotto](https://github.com/nunxdz/n-chatto-botto/blob/master/step2.PNG)
       
   
   ### アピールポイント
